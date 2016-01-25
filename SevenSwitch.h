@@ -57,6 +57,11 @@
 @property (nonatomic, strong) UIColor *borderColor;
 
 /*
+ *	Sets the border color when the switch is On. Defaults to borderColor;
+ */
+@property (nonatomic, strong) UIColor *onBorderColor;
+
+/*
  *	Sets the knob color. Defaults to white.
  */
 @property (nonatomic, strong) UIColor *thumbTintColor;

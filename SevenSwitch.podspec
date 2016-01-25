@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "https://github.com/appsquickly/SevenSwitch"
+  s.homepage     = "https://github.com/jquiambao/SevenSwitch"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -52,10 +52,10 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "AppsQuick.ly" => "email@address.com" }
-  # Or just: s.author    = "AppsQuick.ly"
-  # s.authors            = { "AppsQuick.ly" => "email@address.com" }
-  # s.social_media_url   = "http://twitter.com/AppsQuick.ly"
+  s.author             = { "Jay Q" => "jquiambao@gmail.com" }
+  # Or just: s.author    = "Jay Q"
+  # s.authors            = { "Jay Q" => "jquiambao@gmail.com" }
+  # s.social_media_url   = "http://twitter.com/Jay Q"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/appsquickly/SevenSwitch.git"}
+  s.source       = { :git => "https://github.com/jquiambao/SevenSwitch.git", :tag => "2.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
